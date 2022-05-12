@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Container, Box, Stack, AppBar, Toolbar, styled, Typography, InputBase, Avatar } from '@mui/material';
+import {  Box, AppBar, Toolbar, styled, Typography, InputBase, Avatar } from '@mui/material';
 import { Notifications, Pets } from '@mui/icons-material';
 import Badge from '@mui/material/Badge';
 import MailIcon from '@mui/icons-material/Mail';
