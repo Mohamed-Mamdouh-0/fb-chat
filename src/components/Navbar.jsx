@@ -37,7 +37,7 @@ function Navbar() {
     return (
         <AppBar position="sticky">
             <StyledToolbar>
-                <Typography variant='h6' sx={{ display: { xs: 'none', sm: "block" } }}>Douha</Typography>
+                <Typography variant='h6' sx={{ display: { xs: 'none', sm: "block" } }}>Douhaaa</Typography>
                 <Pets sx={{ display: { xs: 'block', sm: "none" } }} />
                 <Search><InputBase placeholder='Search..' /></Search>
 
