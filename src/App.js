@@ -1,9 +1,9 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Sidebar from './components/Sidebar';
 import Rightbar from './components/Rightbar';
 import Feed from './components/Feed';
-import { Container,Box,Stack, ThemeProvider } from '@mui/material';
+import { Box,Stack, ThemeProvider } from '@mui/material';
 import Navbar from './components/Navbar';
 import Add from './components/Add';
 import { useState } from 'react';
