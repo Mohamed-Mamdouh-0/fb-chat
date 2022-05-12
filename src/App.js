@@ -12,7 +12,7 @@ import { createTheme } from '@mui/material';
 
 function App() {
   
-  const [mode, setMode] = useState("light");
+  const [mode, setMode] = useState("dark");
   const darkTheme = createTheme ({
     palette :{
       mode: mode
